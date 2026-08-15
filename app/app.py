@@ -14,6 +14,7 @@ All v0.4.0 endpoints (/ /notes /healthz /ready /admin/break) are unchanged.
 """
 # Added comment to check the CI/CD -> made changes in the comment
 # Added comment to check the CI process of the jenkins
+# Added second comment for the jenkins
 import json
 import os
 import tempfile
